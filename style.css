@@ -1,0 +1,18 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  font-family: cursive;
+  background: linear-gradient(to right, #40e0d0, #ff8c00, #ff0080);
+  text-align: center;
+  height: 70vh;
+}
+
+input {
+  border: 0;
+  border-radius: 5px;
+  font-size: 20px;
+  padding: 5px;
+  outline: none;
+}
